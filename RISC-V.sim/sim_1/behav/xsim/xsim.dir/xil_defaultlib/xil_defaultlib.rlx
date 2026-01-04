@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/param/.Xilinx/RISC-V/RISC-V.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sim_1/new/tb_riscv_soc.v,1767527937,verilog,,,,tb_riscv_soc,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/matrix_mul_accel.v,1767527798,verilog,,C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/memory.v,,matrix_mult_accel,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/memory.v,1767527837,verilog,,C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/riscv_core.v,,memory,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/riscv_core.v,1767527725,verilog,,C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/riscv_soc.v,,riscv_core,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/riscv_soc.v,1767527876,verilog,,C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sim_1/new/tb_riscv_soc.v,,riscv_soc,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

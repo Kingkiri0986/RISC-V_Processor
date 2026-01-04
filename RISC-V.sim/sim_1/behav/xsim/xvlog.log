@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/matrix_mul_accel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matrix_mult_accel
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/riscv_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscv_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sources_1/new/riscv_soc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscv_soc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/RISC-V/RISC-V.srcs/sim_1/new/tb_riscv_soc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_riscv_soc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/param/.Xilinx/RISC-V/RISC-V.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
